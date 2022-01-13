@@ -1,0 +1,77 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CLASSES_ROOT\.php]
+@="php_auto_file"
+ 
+[HKEY_CLASSES_ROOT\.php\ShellNew]
+"NullFile"=-
+ 
+[HKEY_CLASSES_ROOT\.php\ShellNew]
+"FileName"=""
+ 
+[HKEY_CLASSES_ROOT\php_auto_file]
+@="index"
+ 
+[HKEY_CLASSES_ROOT\php_auto_file\DefaultIcon]
+@=hex(2):22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,\
+  00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,\
+  57,00,65,00,42,00,75,00,69,00,6c,00,64,00,65,00,72,00,20,00,32,00,30,00,31,\
+  00,31,00,5c,00,69,00,63,00,6f,00,6e,00,73,00,2e,00,64,00,6c,00,6c,00,22,00,\
+  2c,00,30,00,00,00
+ 
+[HKEY_CLASSES_ROOT\.js]
+@="js_auto_file"
+ 
+[HKEY_CLASSES_ROOT\.js\ShellNew]
+"NullFile"=-
+ 
+[HKEY_CLASSES_ROOT\.js\ShellNew]
+"FileName"=""
+ 
+[HKEY_CLASSES_ROOT\js_auto_file]
+@="app"
+ 
+[HKEY_CLASSES_ROOT\js_auto_file\DefaultIcon]
+@=hex(2):22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,\
+  00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,\
+  57,00,65,00,42,00,75,00,69,00,6c,00,64,00,65,00,72,00,20,00,32,00,30,00,31,\
+  00,31,00,5c,00,69,00,63,00,6f,00,6e,00,73,00,2e,00,64,00,6c,00,6c,00,22,00,\
+  2c,00,30,00,00,00
+ 
+[HKEY_CLASSES_ROOT\.css]
+@="css_auto_file"
+ 
+[HKEY_CLASSES_ROOT\.css\ShellNew]
+"NullFile"=-
+ 
+[HKEY_CLASSES_ROOT\.css\ShellNew]
+"FileName"=""
+ 
+[HKEY_CLASSES_ROOT\css_auto_file]
+@="style"
+ 
+[HKEY_CLASSES_ROOT\css_auto_file\DefaultIcon]
+@=hex(2):22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,\
+  00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,\
+  57,00,65,00,42,00,75,00,69,00,6c,00,64,00,65,00,72,00,20,00,32,00,30,00,31,\
+  00,31,00,5c,00,69,00,63,00,6f,00,6e,00,73,00,2e,00,64,00,6c,00,6c,00,22,00,\
+  2c,00,30,00,00,00
+ 
+[HKEY_CLASSES_ROOT\.html]
+@="html_auto_file"
+ 
+[HKEY_CLASSES_ROOT\.html\ShellNew]
+"NullFile"=-
+ 
+[HKEY_CLASSES_ROOT\.html\ShellNew]
+"FileName"=""
+ 
+[HKEY_CLASSES_ROOT\html_auto_file]
+@="index"
+ 
+[HKEY_CLASSES_ROOT\html_auto_file\DefaultIcon]
+@=hex(2):22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,\
+  00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,\
+  57,00,65,00,42,00,75,00,69,00,6c,00,64,00,65,00,72,00,20,00,32,00,30,00,31,\
+  00,31,00,5c,00,69,00,63,00,6f,00,6e,00,73,00,2e,00,64,00,6c,00,6c,00,22,00,\
+  2c,00,30,00,00,00
